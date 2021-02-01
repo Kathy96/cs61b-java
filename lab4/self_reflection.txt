@@ -1,0 +1,88 @@
+All questions are optional, though try to answer at least 4. The main goal of this file is to get you thinking critically about your own work, but we will also use these self reflections at the end of the semester when we do our internal review of the course.
+
+ArrayDeque:
+
+Q: Give an example of at least one idea from the staff solution that would have made your solution better (if any).
+
+<<<<<<< HEAD
+A: Actually my removeFirst and removeFirst code but its hard to read. However TA's code is long but is easy to read. That code divide step by step to easy to read. 
+
+=======
+A: 
+>>>>>>> b8c17f3cb73c22f86e84eaf9554e4a5fc0ff4e72
+
+Q: What's something you felt proud of in your code, if anything?
+
+A:
+
+Q: What's something that was particularly inelegant in your code, if anything?
+
+A:
+
+Q: What did you learn by talking to your partner about writing ArrayDeque?
+
+A:
+
+Q: What do you wish you would have known before writing ArrayDeque, if anything?
+
+<<<<<<< HEAD
+A: Draw the picture what's going on first and make code.
+
+Q: If you wrote ArrayDeque again, what would you do differently, if anything?
+
+A: I will write wrapIndex class to make my code simple and clean. 
+=======
+A:
+
+Q: If you wrote ArrayDeque again, what would you do differently, if anything?
+
+A:
+>>>>>>> b8c17f3cb73c22f86e84eaf9554e4a5fc0ff4e72
+
+-----
+
+LinkedListDeque:
+
+Q: Give an example of at least one idea from the staff solution that would have made your solution better (if any).
+
+<<<<<<< HEAD
+A: Actually my addFirst and addLast code but its hard to read. However TA's code is long but is easy to read. That code divide step by step to easy to read. 
+
+Q: What's something you felt proud of in your code, if anything?
+
+A: I like my get recursive and getrecurivehelper code. 
+=======
+A: 
+
+Q: What's something you felt proud of in your code, if anything?
+
+A:
+>>>>>>> b8c17f3cb73c22f86e84eaf9554e4a5fc0ff4e72
+
+Q: What's something that was particularly inelegant in your code, if anything?
+
+A:
+
+Q: What did you learn by talking to your partner about writing LinkedListDeque?
+
+<<<<<<< HEAD
+A: 
+=======
+A:
+>>>>>>> b8c17f3cb73c22f86e84eaf9554e4a5fc0ff4e72
+
+Q: What do you wish you would have known before writing LinkedListDeque, if anything?
+
+A:
+
+Q: If you wrote LinkedListDeque again, what would you do differently, if anything?
+
+A:
+
+-----
+
+Meta:
+
+Q: Did you like this design review process? Anything we should do differently next time?
+
+A: 
